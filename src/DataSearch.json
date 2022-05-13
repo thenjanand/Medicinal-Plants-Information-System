@@ -1,0 +1,602 @@
+[
+ {
+   "ScientificName": "Drymaria cordata",
+   "LocalName": "Abhijalo"
+ },
+ {
+   "ScientificName": "Hippophae salicifolia",
+   "LocalName": "Achuk"
+ },
+ {
+   "ScientificName": "Zingiber officinale",
+   "LocalName": "Aduwa"
+ },
+ {
+   "ScientificName": "Rubus ellipticus",
+   "LocalName": "Aeiselu"
+ },
+ {
+   "ScientificName": "Emblica officinalis Gaertn ,Phyllanthus emblica Linn",
+   "LocalName": "Amla"
+ },
+ {
+   "ScientificName": "Thysanolaena maxima",
+   "LocalName": "Amliso"
+ },
+ {
+   "ScientificName": "Calotropis gigantea",
+   "LocalName": "Ankh"
+ },
+ {
+   "ScientificName": "Holarrhena antidysenterica",
+   "LocalName": "Anley khirrn"
+ },
+ {
+   "ScientificName": "Edgeworthia gardneri",
+   "LocalName": "Argaily"
+ },
+ {
+   "ScientificName": "Adhatoda vasica",
+   "LocalName": "Asuru"
+ },
+ {
+   "ScientificName": "Marsdenia roylei",
+   "LocalName": "Baahuni Lahara"
+ },
+ {
+   "ScientificName": "Aegle marmelos",
+   "LocalName": "Bael"
+ },
+ {
+   "ScientificName": "Potentilla fulgens",
+   "LocalName": "Bajradanta"
+ },
+ {
+   "ScientificName": "Melia azedarach",
+   "LocalName": "Bakaina"
+ },
+ {
+   "ScientificName": "Allium wallichii",
+   "LocalName": "Ban Lasun"
+ },
+ {
+   "ScientificName": "Fagopyrum dibotrys",
+   "LocalName": "Ban phapar"
+ },
+ {
+   "ScientificName": "Melia azedarach",
+   "LocalName": "Bankaima"
+ },
+ {
+   "ScientificName": "Eupatorium cannabinum",
+   "LocalName": "Banmara"
+ },
+ {
+   "ScientificName": "Terminalia ballerica",
+   "LocalName": "Barra"
+ },
+ {
+   "ScientificName": "Dichroa febrifuga",
+   "LocalName": "Basak"
+ },
+ {
+   "ScientificName": "Ziziphus sp",
+   "LocalName": "Bayer"
+ },
+ {
+   "ScientificName": "Costus speciosus",
+   "LocalName": "Bet laure"
+ },
+ {
+   "ScientificName": "Chenopodium album",
+   "LocalName": "Bethu Saag"
+ },
+ {
+   "ScientificName": "Rhus semialata",
+   "LocalName": "Bhakimlo"
+ },
+ {
+   "ScientificName": "Buddleja asiatica",
+   "LocalName": "Bhinsenpatee"
+ },
+ {
+   "ScientificName": "Betula utilis",
+   "LocalName": "Bhojpatra"
+ },
+ {
+   "ScientificName": "Kaempferia rotunda",
+   "LocalName": "Bhui Champa"
+ },
+ {
+   "ScientificName": "Selinum tenuifolium",
+   "LocalName": "Bhut Kesh"
+ },
+ {
+   "ScientificName": "Aconitum heterophyllum",
+   "LocalName": "Bikh, Atish"
+ },
+ {
+   "ScientificName": "Aconitum ferox",
+   "LocalName": "Bikh, Bish"
+ },
+ {
+   "ScientificName": "Citrus medica proper",
+   "LocalName": "Bimbira"
+ },
+ {
+   "ScientificName": "Acorus calamus",
+   "LocalName": "Bojho"
+ },
+ {
+   "ScientificName": "Zanthoxylum acanthopodium",
+   "LocalName": "Bokey timbur"
+ },
+ {
+   "ScientificName": "Litsea citrata",
+   "LocalName": "Bollygum"
+ },
+ {
+   "ScientificName": "Mimosa pudica",
+   "LocalName": "Buhari Jhar"
+ },
+ {
+   "ScientificName": "Leea macrophylla",
+   "LocalName": "Bulyettra"
+ },
+ {
+   "ScientificName": "Astilbe rivularis",
+   "LocalName": "Buriokahti"
+ },
+ {
+   "ScientificName": "Calendula officinalis",
+   "LocalName": "Calendula"
+ },
+ {
+   "ScientificName": "Citrus indica",
+   "LocalName": "Chaksi"
+ },
+ {
+   "ScientificName": "Oxalis corniculata",
+   "LocalName": "Chariamilo"
+ },
+ {
+   "ScientificName": "Alstonia scholaris",
+   "LocalName": "Chatiwan"
+ },
+ {
+   "ScientificName": "Aesandra butyracea",
+   "LocalName": "Chewri"
+ },
+ {
+   "ScientificName": "Heracleum wallichii",
+   "LocalName": "Chimphing"
+ },
+ {
+   "ScientificName": "Swertia chirata",
+   "LocalName": "Chiraita"
+ },
+ {
+   "ScientificName": "Clerodendrum infortunatum",
+   "LocalName": "Chitu"
+ },
+ {
+   "ScientificName": "Berberis aristata",
+   "LocalName": "Chutro"
+ },
+ {
+   "ScientificName": "Cinchona officinalis",
+   "LocalName": "Cinchona"
+ },
+ {
+   "ScientificName": "Punica granatum",
+   "LocalName": "Darim"
+ },
+ {
+   "ScientificName": "Woodfordia fruticosa",
+   "LocalName": "Dhayeroo"
+ },
+ {
+   "ScientificName": "Taxus baccata",
+   "LocalName": "Dhengre salla"
+ },
+ {
+   "ScientificName": "Garuga pinnata",
+   "LocalName": "Dubdabey"
+ },
+ {
+   "ScientificName": "Amomum subulatum",
+   "LocalName": "Elaichi"
+ },
+ {
+   "ScientificName": "Digitalis purpurea",
+   "LocalName": "Fox glove"
+ },
+ {
+   "ScientificName": "Dolichos biflorus",
+   "LocalName": "Gahat"
+ },
+ {
+   "ScientificName": "Tinospora cordifolia",
+   "LocalName": "Garjo"
+ },
+ {
+   "ScientificName": "Dioscorea alata",
+   "LocalName": "Ghartarul"
+ },
+ {
+   "ScientificName": "Aloe barbadensis",
+   "LocalName": "Ghiukumari"
+ },
+ {
+   "ScientificName": "Dioscorea bulbifera",
+   "LocalName": "Gittha"
+ },
+ {
+   "ScientificName": "Abies webbiana",
+   "LocalName": "Gobre salla"
+ },
+ {
+   "ScientificName": "Centella asiatica",
+   "LocalName": "Gora taprey"
+ },
+ {
+   "ScientificName": "Callicarpa arborea",
+   "LocalName": "Guahelo"
+ },
+ {
+   "ScientificName": "Rumex nepalensis",
+   "LocalName": "Halhaley"
+ },
+ {
+   "ScientificName": "Viscum articulatum",
+   "LocalName": "Harchur"
+ },
+ {
+   "ScientificName": "Terminalia chebula",
+   "LocalName": "Harra"
+ },
+ {
+   "ScientificName": "Jatropha curcas",
+   "LocalName": "Hathi-kane"
+ },
+ {
+   "ScientificName": "Ferula narther",
+   "LocalName": "Hing"
+ },
+ {
+   "ScientificName": "Trichosanthus bracteata",
+   "LocalName": "Indreyni"
+ },
+ {
+   "ScientificName": "Physalis minima",
+   "LocalName": "Jangali phokphokey"
+ },
+ {
+   "ScientificName": "Phytolacca acinosa",
+   "LocalName": "Jaringo"
+ },
+ {
+   "ScientificName": "Nardostachys jatamansi DC",
+   "LocalName": "Jatamansi"
+ },
+ {
+   "ScientificName": "Glycyrrhiza glabra Linn",
+   "LocalName": "Jethimadhu"
+ },
+ {
+   "ScientificName": "Daphne cannabina",
+   "LocalName": "Kagatey"
+ },
+ {
+   "ScientificName": "Bischofia javanica",
+   "LocalName": "Kainjal"
+ },
+ {
+   "ScientificName": "Eupatorium odoratum",
+   "LocalName": "Kalijhar"
+ },
+ {
+   "ScientificName": "Solanum nigrum",
+   "LocalName": "Kalobehi"
+ },
+ {
+   "ScientificName": "Myrica esculenta",
+   "LocalName": "Katusi"
+ },
+ {
+   "ScientificName": "Evodia fraxinifolia",
+   "LocalName": "Khanakpa"
+ },
+ {
+   "ScientificName": "Ficus semicordata",
+   "LocalName": "Khasrey Khaneu"
+ },
+ {
+   "ScientificName": "Bauhinia variegata",
+   "LocalName": "Koirala"
+ },
+ {
+   "ScientificName": "Smilax zeylanica",
+   "LocalName": "Kukur Dainey"
+ },
+ {
+   "ScientificName": "Dioscorea deltoidea",
+   "LocalName": "Kukurtarul"
+ },
+ {
+   "ScientificName": "Asparagus racemosus",
+   "LocalName": "Kurilo"
+ },
+ {
+   "ScientificName": "Equisetum debile",
+   "LocalName": "Kurkure Jhar"
+ },
+ {
+   "ScientificName": "Picrorhiza kurroa",
+   "LocalName": "Kutki"
+ },
+ {
+   "ScientificName": "Mimosa pudica",
+   "LocalName": "Lajjawanti"
+ },
+ {
+   "ScientificName": "Fraxinus floribunda",
+   "LocalName": "Lakuri"
+ },
+ {
+   "ScientificName": "Abrus precatorius",
+   "LocalName": "Lalgeri"
+ },
+ {
+   "ScientificName": "Rhododendron arboreum",
+   "LocalName": "Laligurans"
+ },
+ {
+   "ScientificName": "Gloriosa superba",
+   "LocalName": "Langarey Tarul"
+ },
+ {
+   "ScientificName": "Hymenodictyon sp",
+   "LocalName": "Latikaran"
+ },
+ {
+   "ScientificName": "Begonia picta",
+   "LocalName": "Magar Kanhce"
+ },
+ {
+   "ScientificName": "Rubia manjistha",
+   "LocalName": "Majhito"
+ },
+ {
+   "ScientificName": "Rubia cordifolia",
+   "LocalName": "Majito   "
+ },
+ {
+   "ScientificName": "Rubia cordifolia",
+   "LocalName": "Malajito"
+ },
+ {
+   "ScientificName": "Panax pseudoginseng",
+   "LocalName": "Mangan"
+ },
+ {
+   "ScientificName": "Cassia sp",
+   "LocalName": "Methizar"
+ },
+ {
+   "ScientificName": "Carica papaya",
+   "LocalName": "Mewa"
+ },
+ {
+   "ScientificName": "Fapophyrum esculentum",
+   "LocalName": "Mithey Phapur"
+ },
+ {
+   "ScientificName": "Saussurea costus",
+   "LocalName": "N - Kapisful, Kuth"
+ },
+ {
+   "ScientificName": "Lycopodium clavatum",
+   "LocalName": "Naagbeli"
+ },
+ {
+   "ScientificName": "Mesua ferrea",
+   "LocalName": "Nageeswari"
+ },
+ {
+   "ScientificName": "Setaria viridis",
+   "LocalName": "Nageswari bilora"
+ },
+ {
+   "ScientificName": "Valeriana jatamansi",
+   "LocalName": "Nakali Jatamansi"
+ },
+ {
+   "ScientificName": "Tupistra nutan",
+   "LocalName": "Nakima"
+ },
+ {
+   "ScientificName": "Azadirachta indica",
+   "LocalName": "Nimpati"
+ },
+ {
+   "ScientificName": "Juglans regia",
+   "LocalName": "Okhar"
+ },
+ {
+   "ScientificName": "Rheum australe",
+   "LocalName": "Padamchal"
+ },
+ {
+   "ScientificName": "Bergenia ciliata",
+   "LocalName": "Pakhanbed"
+ },
+ {
+   "ScientificName": "Orchis latifolia",
+   "LocalName": "Panchamlay"
+ },
+ {
+   "ScientificName": "Podophyllum hexandrum",
+   "LocalName": "Panchpatey"
+ },
+ {
+   "ScientificName": "Entada scandens",
+   "LocalName": "Pangra"
+ },
+ {
+   "ScientificName": "Nyctanthes arbor tristis",
+   "LocalName": "Parijat"
+ },
+ {
+   "ScientificName": "Clematis buchananiana",
+   "LocalName": "Pinaasey lahara"
+ },
+ {
+   "ScientificName": "Piper longum",
+   "LocalName": "Pipla"
+ },
+ {
+   "ScientificName": "Mentha viridis",
+   "LocalName": "Pudina"
+ },
+ {
+   "ScientificName": "Ricinus communis",
+   "LocalName": "Rairi"
+ },
+ {
+   "ScientificName": "Cassia fistula",
+   "LocalName": "Raj briksha"
+ },
+ {
+   "ScientificName": "Dillenia indica",
+   "LocalName": "Ramphal"
+ },
+ {
+   "ScientificName": "Polygonum viviparum",
+   "LocalName": "Ratnaula"
+ },
+ {
+   "ScientificName": "Sapindus mukorossi",
+   "LocalName": "Ritha"
+ },
+ {
+   "ScientificName": "Elaeocarpus sphaericus",
+   "LocalName": "Rudraksh"
+ },
+ {
+   "ScientificName": "Catharanthus roseus",
+   "LocalName": "Sadabahar"
+ },
+ {
+   "ScientificName": "Moringa oleifera",
+   "LocalName": "Sajana"
+ },
+ {
+   "ScientificName": "Desmodium sp",
+   "LocalName": "Sakhino jhar"
+ },
+ {
+   "ScientificName": "Rauvolfia serpentina",
+   "LocalName": "Sarpgandha"
+ },
+ {
+   "ScientificName": "Lindera neesiana",
+   "LocalName": "Siltimbur"
+ },
+ {
+   "ScientificName": "Bombax ceiba",
+   "LocalName": "Simal"
+ },
+ {
+   "ScientificName": "Urtica dioica",
+   "LocalName": "Sisnu"
+ },
+ {
+   "ScientificName": "Euphorbia royleana",
+   "LocalName": "Siwri"
+ },
+ {
+   "ScientificName": "Ephedra gerardiana",
+   "LocalName": "Somlata"
+ },
+ {
+   "ScientificName": "Foeniculum vulgar",
+   "LocalName": "Sounp"
+ },
+ {
+   "ScientificName": "Callicarpa macrophylla",
+   "LocalName": "Sumali"
+ },
+ {
+   "ScientificName": "Rhododendron Anthopogon",
+   "LocalName": "Sunpati"
+ },
+ {
+   "ScientificName": "Bauhinia purpurea",
+   "LocalName": "Tanki"
+ },
+ {
+   "ScientificName": "Eucalyptus globosa",
+   "LocalName": "Tarpin"
+ },
+ {
+   "ScientificName": "Stephania glabra",
+   "LocalName": "Taubarkey"
+ },
+ {
+   "ScientificName": "Cinnamomum tamala",
+   "LocalName": "Tespatta"
+ },
+ {
+   "ScientificName": "Pteri biaurita",
+   "LocalName": "Thado unew"
+ },
+ {
+   "ScientificName": "Zanthoxylum armatum",
+   "LocalName": "Timbur"
+ },
+ {
+   "ScientificName": "Tamaarindus indica",
+   "LocalName": "Titari"
+ },
+ {
+   "ScientificName": "Artemisia vulgaris",
+   "LocalName": "Titaypati"
+ },
+ {
+   "ScientificName": "Toona ciliata",
+   "LocalName": "Tooni"
+ },
+ {
+   "ScientificName": "Aconogonum molle",
+   "LocalName": "Totne"
+ },
+ {
+   "ScientificName": "Oroxylum indicum",
+   "LocalName": "Totola"
+ },
+ {
+   "ScientificName": "Ocimum sanctum",
+   "LocalName": "Tulasi"
+ },
+ {
+   "ScientificName": "Hypericum patilum",
+   "LocalName": "Urila"
+ },
+ {
+   "ScientificName": "Dichroa febrifuga",
+   "LocalName": "Vasak"
+ },
+ {
+   "ScientificName": "Bauhinia vahlii",
+   "LocalName": "Verla"
+ },
+ {
+   "ScientificName": "pongamia pinnata",
+   "LocalName": "vhatmas"
+ },
+ {
+   "ScientificName": "Cordyceps sinensis",
+   "LocalName": "Yarcha gombuk"
+ }
+]
