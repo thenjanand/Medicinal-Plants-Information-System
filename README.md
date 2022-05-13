@@ -2,7 +2,7 @@
 
 Medicinal Plants Information System aka. MPIS is an information system for medicinal and aromatic plants that are found in the Northeastern state of India i.e Sikkim. Sikkim is bestowed with abundant medicinal and aromatic plants. More than 150 species of medicinal and aromatic plants are reported to be found in the state. Medicinal and Aromatic plants based on the web application is expected to help the public to find out the benefits and its locations .This application can raise public awareness about the importance of using herbs as medicine.
 
-#### View the application live [here](https://aashu-007.github.io/MedicinalPlantsInformationSystem/) [https://aashu-007.github.io/MedicinalPlantsInformationSystem/](https://aashu-007.github.io/MedicinalPlantsInformationSystem/)
+#### View the application live [here](https://aashu-007.github.io/MedicinalPlantsInformationSystem/) [https://github.com/Njanand-xenon/Medicinal-Plants-Information-System](https://aashu-007.github.io/MedicinalPlantsInformationSystem/)
 
 ## Available Scripts
 
