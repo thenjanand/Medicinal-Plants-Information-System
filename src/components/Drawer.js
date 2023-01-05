@@ -2,7 +2,7 @@ import React, { useState, useEffect, useContext } from "react";
 import HomeIcon from "@mui/icons-material/Home";
 import InfoIcon from "@mui/icons-material/Info";
 import MailIcon from "@mui/icons-material/Mail";
-import TravelExploreIcon from '@mui/icons-material/TravelExplore';
+import TravelExploreIcon from "@mui/icons-material/TravelExplore";
 import AddBoxIcon from "@mui/icons-material/AddBox";
 import { makeStyles } from "@mui/styles";
 import {
@@ -12,7 +12,7 @@ import {
   ListItemIcon,
   ListItemText,
   Divider,
-  Button
+  Button,
 } from "@mui/material";
 import green from "@mui/material/colors/green";
 
@@ -22,7 +22,7 @@ import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
 import MenuIcon from "@mui/icons-material/Menu";
-import { Link, useLocation} from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { AuthContext } from "../components/Authentication/AuthProvider";
 
 import "../App.css";
@@ -37,11 +37,8 @@ const useStyles = makeStyles({
   },
 });
 
-
-
 const Drawer = () => {
-
-  const { user,logout } = useContext(AuthContext);
+  const { user, logout } = useContext(AuthContext);
 
   const classes = useStyles();
 
@@ -75,7 +72,7 @@ const Drawer = () => {
       icon: <HomeIcon style={{ color: green[50] }} />,
       path: "/",
     },
-     {
+    {
       text: "Explore Species",
       icon: <TravelExploreIcon style={{ color: green[50] }} />,
       path: "/explorespecies",
@@ -96,7 +93,6 @@ const Drawer = () => {
       path: "/about",
     },
   ];
-
 
   return (
     <>
@@ -121,7 +117,7 @@ const Drawer = () => {
           >
             Medicinal & Aromatic Plants of Sikkim
           </Typography>
-              <Typography
+          <Typography
             variant="h5"
             noWrap
             component="div"
@@ -131,34 +127,26 @@ const Drawer = () => {
           </Typography>
           {user && user.emailVerified ? (
             <>
-            <Box sx={{display:{xs:"none",sm:"block"}}}>
-            <Typography
-              variant="body1"
-              sx={{ fontSize: 14 }}
-            >
-              Hello, {user && user.email} | {"  "}
-            </Typography>
-            </Box>
-            <Button 
-              color="inherit"
-              onClick={logout}
-            >
-              Logout
-            </Button>
-          </>
-          ):(  
-          <>
-          <Button
-            color="inherit"
-          >
-            <Link
-              to="/login"
-              style={{ textDecoration: "inherit", color: "inherit" }}
-            >
-              LOGIN
-            </Link>
-          </Button>
-          </>
+              <Box sx={{ display: { xs: "none", sm: "block" } }}>
+                <Typography variant="body1" sx={{ fontSize: 14 }}>
+                  Hello, {user && user.email} | {"  "}
+                </Typography>
+              </Box>
+              <Button color="inherit" onClick={logout}>
+                Logout
+              </Button>
+            </>
+          ) : (
+            <>
+              <Button color="inherit">
+                <Link
+                  to="/login"
+                  style={{ textDecoration: "inherit", color: "inherit" }}
+                >
+                  LOGIN
+                </Link>
+              </Button>
+            </>
           )}
         </Toolbar>
       </AppBar>
@@ -170,9 +158,9 @@ const Drawer = () => {
         color="primary"
       >
         <List className={classes.drawer}>
-          <Box height={170} sx={{ flexGrow: 1, mt: -1 ,width:"100%"}}>
+          <Box height={170} sx={{ flexGrow: 1, mt: -1, width: "100%" }}>
             <img
-              src="https://firebasestorage.googleapis.com/v0/b/mpis-mini.appspot.com/o/logo.jpg?alt=media&token=a8def575-176c-49e0-bed6-5b897428cc62"
+              src="https://firebasestorage.googleapis.com/v0/b/mpis-mini-f6271.appspot.com/o/logo.jpg?alt=media&token=961dc111-886b-43f9-aece-4d1dc8b95a9a"
               alt="mpis sikkim logo"
               width="100%"
               height="100%"
@@ -185,7 +173,10 @@ const Drawer = () => {
               <Link
                 to={path}
                 style={{ textDecoration: "inherit", color: "inherit" }}
-                onClick={() => {setOpen(false);window.scroll(0,0)}}
+                onClick={() => {
+                  setOpen(false);
+                  window.scroll(0, 0);
+                }}
               >
                 <p
                   className={`${activeTab === text ? "active" : ""}`}
@@ -201,8 +192,19 @@ const Drawer = () => {
           })}
         </List>
         {user && user.emailVerified ? (
-          <Typography variant="body1" sx={{fontSize:12,m:"auto",display:{xs:"block",sm:"none"}}}>{user.email}</Typography>
-          ):("")}
+          <Typography
+            variant="body1"
+            sx={{
+              fontSize: 12,
+              m: "auto",
+              display: { xs: "block", sm: "none" },
+            }}
+          >
+            {user.email}
+          </Typography>
+        ) : (
+          ""
+        )}
       </MUIDrawer>
     </>
   );
